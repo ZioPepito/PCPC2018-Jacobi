@@ -98,7 +98,7 @@ L'esecuzione del probramma sequenziale ha impiegato **88671.449 ms**. Di seguito
 
 Di seguito il grafico corrispondente: 
 
-![StrongScalability](/StrongScalability.png "Strong Scalability")
+![StrongScalability](StrongScalability.png "Strong Scalability")
 
 Si può notare un leggero aumento di tempo dall'utilizzo di 20 processori in poi dovuto probabilmente all'overhea di comunicazione. 
 
@@ -119,7 +119,7 @@ L'esecuzione del probramma sequenziale ha impiegato **3577.011 ms** (2000 righe)
 
 Di seguito il grafico corrispondente: 
 
-![WeakScalability](/WeakScalability.png "Weak Scalability")
+![WeakScalability](WeakScalability.png "Weak Scalability")
 
 Si può notare un leggero aumento di tempo dall'utilizzo di 20 processori, come nei test di strong scalability, dovuto probabilmente all'overhea di comunicazione. 
 
